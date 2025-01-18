@@ -109,5 +109,5 @@ Antes de começar, você precisará ter instalado:
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## Licença
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
